@@ -1,0 +1,8 @@
+{
+  "name": "乐善市南",
+  "description": "市南区官方慈善公益募捐平台，指尖上的公益。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
